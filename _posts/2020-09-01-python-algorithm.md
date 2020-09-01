@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "[Python] 순열과 조합 구하기"
 subtitle: "PYTHON에서 dfs와 itertools 라이브러리를 이용한 순열과 조합 구하기"
 categories: -알고리즘
